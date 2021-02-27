@@ -32,13 +32,17 @@ In the analysis of outcomes based on goals, I did not encounter any problems whe
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 One conclusion I can draw about the outcomes based on launch date chart is that the highest number of campagins and highest number of successful campaigns were made during the months of May and June. We can also conclude that the least optimal time to create a theater campaign is during the month of December. This can be caused by factors such as it being the time of Christmas. People will be more focused on purchasing gifts for family instead of donating it to a theater campaign.
 
 - What can you conclude about the Outcomes based on Goals?
+
 A conclusion I can draw about the outcomes based on goals chart is that the best chance of having successful campaigns is to have a goal less than $5000. There are some outliers that have successful ones with a higher goal but for the most part the optimal range in having the most successful campaigns will be less than $5000.
 
 - What are some limitations of this dataset?
+
 The limitations of this dataset is that the chart in regard to the outcomes based on launch date has included data from all the subcategories, which are "musical", "plays", and "spaces". The chart in regard to the outcomes based on goals is specifically looking at plays. This doesn't give a general analysis for the theater category as a whole.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Some other tables that can be created to improve on the analysis is by creating outcomes based on goals for categories "musical" and "spaces". This will allow us to look at the data that has been overlooked and give us a better idea on the success rate of these campaigns.
